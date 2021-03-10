@@ -1,47 +1,40 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://drgloo.github.io/",
+    "name": "Raishan Bernard",
+    "role": "Full Stack Developer",
+    "linkedinId":"Raishan Bernard",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of development and love to learn about new technologies, write code for my games or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/raishan-bernard-a17741157/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/drgloo",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/raishanbernard",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a final year student at the Borough of Manhattan Community College and pursuing my bachelor's in Computer Science from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe in becoming the best version of myself, so I can contribute more to the world.",
+    "address":"Brooklyn, New York",
+    "website":"https://drgloo.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Borough of Manhattan Community College",
+        "specialization":"Computer Science",
+        "MonthOfPassing":"Dec",
+        "YearOfPassing":"2021",
+        "Achievements":"Increased my knowledge on the fundementals of Computer Science by learning the stucture mechnization of Computing."
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
-    "work":[
+    /*"work":[
       {
         "CompanyName":"Some Company",
         "specialization":"Some specialization",
@@ -56,17 +49,17 @@ let resumeData = {
         "YearOfLeaving":"2018",
         "Achievements":"Some Achievements"
       }
-    ],
-    "skillsDescription":"Your skills here",
+    ], */
+    "skillsDescription":"Generalization of my Skills",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Full Stack Development"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Python Development"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"C++"
       }
     ],
     "portfolio":[
@@ -93,12 +86,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"In extremely tough times, when most students fell by the wayside, Raishan has risen to the occasion. All of Raishan's work was top notch and turned in on time. In addition, Raishan will bring a lot to the table",
+        "name":"Mark Janis, Raishan's teacher at Borough of Manhattan Community College"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"He's friendly, intelligent, and mature. You can trust him to do a great job and represent your company well.",
+        "name":"Christopher Rohner, Raishan's teacher at Brooklyn High School for Law and Technology"
       }
     ]
   }
